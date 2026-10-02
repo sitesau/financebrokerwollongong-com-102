@@ -1,0 +1,19 @@
+{
+  "wheel_id": 330,
+  "structure": "umbrella",
+  "slug": "financebrokerwollongong-com-102",
+  "project": "finance-broker-wollongong-costs-d7f0ed4783ee96603a3e694b6201224",
+  "parent_t1_ref": "financebrokerwollongong-com-150",
+  "node_role": "feeder",
+  "money_target": "financebrokerwollongong.com.au",
+  "primary_kw": "finance broker wollongong costs",
+  "intended_url": "https://sites-e470-2.web.app/finance-broker-wollongong-costs-d7f0ed4783ee96603a3e694b6201224/",
+  "writeback_nonce": "ef9e6847ea14d6c2",
+  "links": [
+    {
+      "target_url": "http://finance-broker-wollongong-769ca70ac698b1581ee1deae915c77174ed7b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "finance broker wollongong",
+      "rel": "follow"
+    }
+  ]
+}
